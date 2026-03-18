@@ -1,1 +1,3 @@
-# CS116___LaptrinhPythonchoMayhoc
+# CS116 - Lập trình Python cho Máy học
+
+## Mô tả Môn học
